@@ -1,0 +1,4 @@
+html_pages/
+*.html
+*.csv
+__pycache__/
